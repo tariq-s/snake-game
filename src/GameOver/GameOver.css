@@ -1,0 +1,8 @@
+.game-over {
+  color: #bbe1fa;
+}
+
+.game-over h3 {
+  display: flex;
+  justify-content: center;
+}

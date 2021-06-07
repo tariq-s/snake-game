@@ -1,0 +1,29 @@
+.board {
+  outline: 1px solid #bbe1fa;
+}
+
+.row {
+  height: 20px;
+}
+
+.cell {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  /* outline: 1px solid #bbe1fa; */
+  color: #3282b8;
+  text-align: center;
+}
+
+.food-cell {
+  background-color: #c72c41;
+}
+
+.snake-cell {
+  background-color: #3282b8;
+}
+
+.score {
+  display: flex;
+  justify-content: center;
+}
